@@ -113,7 +113,7 @@ GitHub: https://github.com/desalaz<br>
 |              | c. Describe el ciclo de vida de desarrollo en metodologías Agile.  | El ciclo de vida de desarrollo en metodologías Agile incluye la planificación, la implementación, la revisión y la adaptación continua a medida que se desarrolla el producto.    |
 |              | d. ¿Por qué es importante la integración continua en el desarrollo de software?    | La integración continua es importante porque permite la detección temprana de errores y la entrega frecuente de versiones de software funcionales, lo que garantiza la calidad y la estabilidad del producto.    |
 |               |e. ¿Qué es Docker y cómo se utiliza en el desarrollo de aplicaciones web?    | Docker es una plataforma de contenedores que permite empaquetar, distribuir y ejecutar aplicaciones de manera eficiente y reproducible. Se utiliza en el desarrollo web para crear entornos de desarrollo consistentes y portátiles.    |
-| Resolución de Problemas            | a. Proporciona un ejemplo de un problema técnico que hayas resuelto recientemente en un proyecto y cómo lo abordaste.   |    |1. Identifica el problema.
+| Resolución de Problemas            | a. Proporciona un ejemplo de un problema técnico que hayas resuelto recientemente en un proyecto y cómo lo abordaste.   |  1. Identifica el problema.
 2. Revisa el código.
 3. Buscar errores evidentes
 4. Agrega console.log()para de este modo verificar el correcto flujo de ejecucución y detectar posibles problemas.
