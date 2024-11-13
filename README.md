@@ -13,7 +13,7 @@ Esta seria la primera Oferta de empleo a la que me gustaria aplicar,  y la prepa
 **_Requisitos_**:
 - Estudios mínimos: Ciclo Formativo Grado Superior
 - Experiencia mínima: Al menos 3 años
-- Imprescindible residente en Provincia Puesto Vacante
+- Imprescindible residente en Provincia Puesto Vacante  
 _Conocimientos necesarios_:
 **REST**  **Front-end**  **vue**  **JavaScript**  **nuxt**  **Docker**
 
