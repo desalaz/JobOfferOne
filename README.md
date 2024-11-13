@@ -46,9 +46,9 @@ Toma, preparación y procesamiento de muestras biológicas.
 
 ### EDUCACIÓN:
 
-**Ceinmak - Desarrollo de Aplicaciones Web Grado Superior (2020-2022)**
-**Universidad de Carabobo - Grado en Bioquímica (2004-2008)**
-**Liceo Agustín Codazzi - Bachiller en Ciencias (1999-2003)**
+**Ceinmak - Desarrollo de Aplicaciones Web Grado Superior (2020-2022)**  
+**Universidad de Carabobo - Grado en Bioquímica (2004-2008)**  
+**Liceo Agustín Codazzi - Bachiller en Ciencias (1999-2003)**  
 
 
 ### CONTACTO:
