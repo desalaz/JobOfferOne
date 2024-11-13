@@ -6,9 +6,9 @@ Esta seria la primera Oferta de empleo a la que me gustaria aplicar,  y la prepa
 
 ## 1. Oferta Laboral
 [Oferta 1](https://www.infojobs.net/madrid/desarrollador-front-end/of-i17373adc2f4113a63812fa58e63f45?applicationOrigin=search-new&page=1&sortBy=RELEVANCE)
-**Título**: Desarrollador de front-end
-**Empresa**: Randstad Digital
-**tipo**: Híbrido
+**Título**: Desarrollador de front-end  
+**Empresa**: Randstad Digital  
+**tipo**: Híbrido  
 
 **_Requisitos_**:
 - Estudios mínimos: Ciclo Formativo Grado Superior
